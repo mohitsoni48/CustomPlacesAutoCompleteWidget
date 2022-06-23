@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomPlacesAutoCompleteWidget.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomPlacesAutoCompleteWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CustomPlacesAutoCompleteWidget.app.unitTest.iml" />
     </modules>
   </component>
 </project>
